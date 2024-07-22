@@ -1,0 +1,27 @@
+.landing-page {
+    background-color: #007BFF; /* Blue background color */
+    color: white; /* White text color for contrast */
+    height: 100vh; /* Full viewport height */
+    display: flex; /* Flexbox for centering */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    text-align: center; /* Center text */
+  }
+  
+  .content {
+    background: rgba(255, 255, 255, 0.9); /* Semi-transparent white background for content */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 2em;
+  }
+  
+  p {
+    margin: 10px 0 0;
+    font-size: 1.2em;
+  }
+  
